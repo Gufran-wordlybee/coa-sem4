@@ -53,7 +53,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/241210047/241210047_COA.git
+   git clone https://github.com/241210042.git
    ```
 
 2. Navigate to the desired experiment folder:
